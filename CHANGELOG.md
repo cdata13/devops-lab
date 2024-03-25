@@ -4,5 +4,4 @@
 
 ### Added
 
-- Create an HTTP web server using Express
-- Initialize a project
+- Create the project
