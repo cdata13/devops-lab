@@ -6,7 +6,7 @@ One Paragraph of project description goes here. Explain what your project does a
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Prerequisites student 1
 
 What things you need to install the software and how to install them.
 
