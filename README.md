@@ -23,7 +23,6 @@ Create a web application on any programming language (NodeJS, Java, Ruby, Python
 
 **Note!** You are allowed to use the draft application located in the [courses/devops/modules/03.continuous-testing/lab](courses/devops/modules/03.continuous-testing/lab) folder, but you have to enrich it by at least completing all comment sections marked "TODO".
 
-### Prerequisites 
 ### 2. Apply CI/CD pipeline 
 Configure and apply CI/CD (including deployment) pipeline using any platforms (GitHub Actions, GitLab CI/CD, Jenkins, Netlify, Heroku, etc.).
 
